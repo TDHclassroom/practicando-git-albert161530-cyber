@@ -1,8 +1,14 @@
-\# Changelog
+\# Mi Proyecto Git
 
 
 
-\## v1.0.0
+Este es mi primer proyecto usando Git.
 
-\- Proyecto inicial
+
+
+\## Características
+
+\- Aprendiendo Git paso a paso
+
+
 
